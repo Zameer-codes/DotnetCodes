@@ -1,0 +1,15 @@
+/home/zameerahammad/DotnetCodes/GithubPushSample/bin/Debug/net6.0/GithubPushSample
+/home/zameerahammad/DotnetCodes/GithubPushSample/bin/Debug/net6.0/GithubPushSample.deps.json
+/home/zameerahammad/DotnetCodes/GithubPushSample/bin/Debug/net6.0/GithubPushSample.runtimeconfig.json
+/home/zameerahammad/DotnetCodes/GithubPushSample/bin/Debug/net6.0/GithubPushSample.dll
+/home/zameerahammad/DotnetCodes/GithubPushSample/bin/Debug/net6.0/GithubPushSample.pdb
+/home/zameerahammad/DotnetCodes/GithubPushSample/obj/Debug/net6.0/GithubPushSample.csproj.AssemblyReference.cache
+/home/zameerahammad/DotnetCodes/GithubPushSample/obj/Debug/net6.0/GithubPushSample.GeneratedMSBuildEditorConfig.editorconfig
+/home/zameerahammad/DotnetCodes/GithubPushSample/obj/Debug/net6.0/GithubPushSample.AssemblyInfoInputs.cache
+/home/zameerahammad/DotnetCodes/GithubPushSample/obj/Debug/net6.0/GithubPushSample.AssemblyInfo.cs
+/home/zameerahammad/DotnetCodes/GithubPushSample/obj/Debug/net6.0/GithubPushSample.csproj.CoreCompileInputs.cache
+/home/zameerahammad/DotnetCodes/GithubPushSample/obj/Debug/net6.0/GithubPushSample.dll
+/home/zameerahammad/DotnetCodes/GithubPushSample/obj/Debug/net6.0/refint/GithubPushSample.dll
+/home/zameerahammad/DotnetCodes/GithubPushSample/obj/Debug/net6.0/GithubPushSample.pdb
+/home/zameerahammad/DotnetCodes/GithubPushSample/obj/Debug/net6.0/GithubPushSample.genruntimeconfig.cache
+/home/zameerahammad/DotnetCodes/GithubPushSample/obj/Debug/net6.0/ref/GithubPushSample.dll
